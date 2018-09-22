@@ -1,3 +1,3 @@
 # ElchemyExample
 
-Simples Elchemy example possible. Just clone and run `elchemy init && mix test`
+The simplest Elchemy project possible. Just clone and run `elchemy init && mix test`
